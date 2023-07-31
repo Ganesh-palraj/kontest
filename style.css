@@ -1,0 +1,7 @@
+.navbar{
+    display: flex;
+    
+}
+.button_container{
+    display: flex;
+    align-items: center;}
